@@ -28,7 +28,7 @@ Beyond technical work, I value clarity, collaboration, and continuous improvemen
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mayursonawane" target="_blank">
+  <a href="https://www.linkedin.com/in/mayur-sonawane-java-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mayursonawane055@gmail.com">
