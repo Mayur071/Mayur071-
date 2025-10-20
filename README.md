@@ -34,7 +34,7 @@ Beyond technical work, I value clarity, collaboration, and continuous improvemen
   <a href="mailto:mayursonawane055@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/u/mayursonawane" target="_blank">
+  <a href="https://leetcode.com/u/mayur071/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
